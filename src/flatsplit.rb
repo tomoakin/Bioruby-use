@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 require 'bio'
 
 ff = Bio::FlatFile.open(nil, ARGV[0])
