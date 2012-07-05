@@ -1,0 +1,32 @@
+--
+= README.rdoc - README for Bioruby-use
+Author:: Tomoaki Nishiyama <tomoakin@staff.kanazawa-u.ac.jp>
+License::   The Ruby License
+++
+
+= Bioruby
+
+BioRuby is an open source Ruby library for developing bioinformatics
+software.  
+While its easy to use and contain examples on some usage,
+usually it is  worth to have more examples.
+
+Here, I put some short example code, that is directly usable in
+real operation.
+
+The License is the ruby's License, which is the same as the BioRuby library.
+
+== Discaimer
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+
